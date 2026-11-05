@@ -1,4 +1,4 @@
-HARKUNWAR SINGH — PORTFOLIO 2.0 CONCEPT
+HARKUNWAR SINGH — PORTFOLIO CONCEPT
 ========================================
 
 This is an initial working visual prototype, not a deployed production website.
